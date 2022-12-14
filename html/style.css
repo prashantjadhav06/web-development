@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(249, 172, 172);
+}
+h1{
+    color: #ff0048;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(255, 255, 255);
+    width:10%;
+    border-width: 5px;
+    
+}
+img{
+    height: 250px;
+}
